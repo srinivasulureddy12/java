@@ -4,6 +4,7 @@ public class Sample {
         int m = Integer.parseInt(args[0]);    // choose this many elements
         int n = Integer.parseInt(args[1]);    // from 0, 1, ..., n-1
 hiiiiiiiiiii
+haii123
        // create permutation 0, 1, ..., n-1
         int[] perm = new int[n];
         for (int i = 0; i < n; i++)
